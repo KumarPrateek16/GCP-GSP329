@@ -138,6 +138,8 @@ ORDER BY lcount DESC
 - Platform: Google Cloud Skills Boost (Qwiklabs)
 - Course: Use Machine Learning APIs on Google Cloud
 
+---
+
 ## AUTHOR
 
 Prateek Kumar [Github](https://github.com/KumarPrateek16)
