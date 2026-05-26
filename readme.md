@@ -1,3 +1,4 @@
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 # GSP329 - Use Machine Learning APIs on Google Cloud: Challenge Lab
 
 ## Overview
